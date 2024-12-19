@@ -43,7 +43,7 @@ function PokemonDetail() {
    
 return (
   <div style={{
-    color: theme.color, backgroundImage: `url("${theme.bgImage}")`,
+    // color: theme.color, backgroundImage: `url("${theme.bgImage}")`,
     backgroundRepeat: 'no-repeat',
     backgroundSize: 'cover',
     backgroundAttachment: 'fixed',
