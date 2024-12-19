@@ -16,7 +16,7 @@ export const GlobalStyle = createGlobalStyle`
         font-family: Poppins, Arial, sans-serif;
         list-style: none;
         position: relative;
-        background: url(../../src/assets/blackhole.jpg);
+        background: url(../../src/images/blackhole.webp);
         background-size: 100%;
 
     a {
