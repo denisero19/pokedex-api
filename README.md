@@ -5,9 +5,9 @@ Atende a vários tamanhos de telas.
 
 ## 👁‍🗨 Exemplo de visualização em telas de computador 💻 e de mobile 📱
 
-<img src="./src/images/Pokedex-desktop.gif">
+<img src="./Pokedex-desktop.gif">
 
-<img src="./src/images/Pokedex-mobile.gif">
+<img src="./Pokedex-mobile.gif">
 
 
 ## ✅ Principais características
